@@ -47,19 +47,44 @@ acceptable. Here are a few pointers (some point to earlier events):
   related tasks
 - [Germeval](https://projects.fzai.h-da.de/iggsa/) shared tasks
   are another option, particularly if you'd like to work on German.
-- [VarDial workshops](https://sites.google.com/view/vardial2019) host regular
+- [VarDial workshops](https://sites.google.com/view/vardial2020) host regular
   shared task related to dialects and closely related languages.
-- [SMM4H](https://healthlanguageprocessing.org/smm4h/challenge/)
-  is another workshop with regular associated shared tasks.
-- [CLPSYCH](http://clpsych.org/) is yet another interesting venue with
-  somewhat regular shared tasks..
-- IWCS 2019 has  a new
-  [shared task](https://competitions.codalab.org/competitions/20220) on semantic parsing.
+- [NIPS competition track](https://nips.cc/Conferences/2019/CompetitionTrack)
+    sometimes include NLP/CL related competitions.
 
-The above is only a sample. There are more shared tasks you can find
-through a search on the Internet. Most of the shared tasks for the
-upcoming year may not be yet announced. You are recommended to check
-the earlier instances of the shared tasks or the associated workshops.
+The following workshops hosted (or plan to host) shared tasks.
+
+- [SIGMORPHON](https://sigmorphon.github.io/workshops/)
+- [Universal Dependencies Workshop](https://universaldependencies.org/udw20/)
+- [Social Media Mining for Health Applications (SMM4H) workshop](https://healthlanguageprocessing.org/smm4h/challenge/)
+- [Computational Linguistics and Clinical Psychology Workshop (CLPSYCH)](http://clpsych.org/)
+- [FinTOC-2019 Shared Task](http://wp.lancs.ac.uk/cfie/shared-task/)
+- [BioNLP workshop](https://aclweb.org/aclwiki/BioNLP_Workshop)
+- [Workshop on Noisy User-generated Text](http://noisy-text.github.io/)
+- [TextGraphs workshop](https://sites.google.com/view/textgraphs2020)
+- [Workshop on Gender Bias for Natural Language Processing](https://genderbiasnlp.talp.cat/shared-task/)
+- [Workshop on Neural Generation and Translation](https://sites.google.com/view/wngt20/home)
+- [Arabic Natural Language Processing Workshop](https://sites.google.com/view/wanlp-2020/home)
+- [Workshop on Fact Extraction and Verification](http://fever.ai/)
+- [Workshop on Multilingual Surface Realization](http://taln.upf.edu/pages/msr2019-ws/)
+- [Workshop on Rumours and Deception in Social Media](https://www.pheme.eu/rdsm2020/)
+- [Joint Workshop on Multiword Expressions and Electronic Lexicons](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_02_MWE-LEX_2020___lb__COLING__rb__&subpage=CONF_40_Shared_Task)
+- [Conference on Machine Translation](http://www.statmt.org/wmt20/)
+- [Workshop on Technologies for MT of Low Resource Languages](https://sites.google.com/view/loresmt/)
+- [Workshop on Simple and Efficient Natural Language Processing](https://sites.google.com/view/sustainlp2019)
+- [Workshop on Abusive Language Online](https://sites.google.com/view/alw4/)
+- [Second Workshop on Figurative Language Processing](https://sites.google.com/view/figlang2020/)
+- [Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
+- [Workshop on NLP4IF: censorship, disinformation, and propaganda](http://www.netcopia.net/nlp4if/)
+- [Workshop on Trolling, Aggression and Cyberbullying](https://sites.google.com/view/trac-2/home)
+- [Workshop on Natural Language Processing for Social Media](https://sites.google.com/site/socialnlp2019/)
+- [NLP Techniques for Educational Applications](http://www.nlptea.org/)
+- [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2018multimodalchallenge/)
+
+This is only a sample. Most of the shared tasks for the
+upcoming year may not yet be announced. You are recommended to check
+the earlier instances of the shared tasks and keep an eye
+on the workshop pages for the upcoming shared tasks announcements.
 
 For the purposes of the class, we prefer a shared task where you
 finalize your work with a system description paper. If all else fails,
