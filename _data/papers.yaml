@@ -2,6 +2,10 @@
   url: https://aclweb.org/anthology/papers/S/S19/S19-2111/
   task: OffensEval 2019
   taskurl: https://competitions.codalab.org/competitions/20011
+- authors: Kannan and Stein
+  url: https://www.aclweb.org/anthology/S19-2134/
+  task: OffensEval 2019
+  taskurl: https://competitions.codalab.org/competitions/20011
 - authors: Pütz and Glocker (2019)
   url: https://www.aclweb.org/anthology/S19-2016
   task: Cross-lingual Semantic Parsing with UCCA

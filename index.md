@@ -41,6 +41,18 @@ acceptable. Here are a few pointers (some point to earlier events):
 
 - [SemEval](http://alt.qcri.org/semeval2020/index.php?id=tasks)
   competitions include a wide range of shared tasks.
+    - [Task 1: Unsupervised Lexical Semantic Change Detection](https://competitions.codalab.org/competitions/20948)
+    - [Task 2: Predicting Multilingual and Cross-Lingual (Graded) Lexical Entailment](https://competitions.codalab.org/competitions/20865)
+    - [Task 3 - Predicting the (Graded) Effect of Context in Word Similarity](https://competitions.codalab.org/competitions/20905)
+    - [Task 4 - Commonsense Validation and Explanation](https://competitions.codalab.org/competitions/21080)
+    - [Task 5 - Modelling Causal Reasoning in Language: Detecting Counterfactuals](https://competitions.codalab.org/competitions/20972)
+    - [Task 6 - DeftEval 2020](https://competitions.codalab.org/competitions/20900)
+    - [Task 7 - Assessing Humor in Edited News Headlines](https://competitions.codalab.org/competitions/20970)
+    - [Task 8 - Memotion Analysis](https://competitions.codalab.org/competitions/20629)
+    - [Task 9 - Sentiment Analysis for Code-Mixed social media text](https://competitions.codalab.org/competitions/20654)
+    - [Task 10 - Emphasis Selection For Written Text in Visual Media](https://competitions.codalab.org/competitions/20815)
+    - [Task 11 - Detection of Propaganda Techniques in News Articles](https://propaganda.qcri.org/semeval2020-task11/)
+    - [Task 12 - Identifying and Categorizing Offensive Language in Social Media (OffensEval)](https://sites.google.com/site/offensevalsharedtask/)
 - [CoNLL](http://www.conll.org/) hosts regular high-profile shared
   tasks.
 - [CLEF](https://clef2020.clef-initiative.eu/) also includes CL/NLP
