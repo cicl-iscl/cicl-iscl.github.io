@@ -41,60 +41,30 @@ acceptable. Here are a few pointers (some point to earlier events):
 
 - [SemEval](http://alt.qcri.org/semeval2020/index.php?id=tasks)
   competitions include a wide range of shared tasks.
-    - [Task 1: Unsupervised Lexical Semantic Change Detection](https://competitions.codalab.org/competitions/20948)
-    - [Task 2: Predicting Multilingual and Cross-Lingual (Graded) Lexical Entailment](https://competitions.codalab.org/competitions/20865)
-    - [Task 3 - Predicting the (Graded) Effect of Context in Word Similarity](https://competitions.codalab.org/competitions/20905)
-    - [Task 4 - Commonsense Validation and Explanation](https://competitions.codalab.org/competitions/21080)
-    - [Task 5 - Modelling Causal Reasoning in Language: Detecting Counterfactuals](https://competitions.codalab.org/competitions/20972)
-    - [Task 6 - DeftEval 2020](https://competitions.codalab.org/competitions/20900)
-    - [Task 7 - Assessing Humor in Edited News Headlines](https://competitions.codalab.org/competitions/20970)
-    - [Task 8 - Memotion Analysis](https://competitions.codalab.org/competitions/20629)
-    - [Task 9 - Sentiment Analysis for Code-Mixed social media text](https://competitions.codalab.org/competitions/20654)
-    - [Task 10 - Emphasis Selection For Written Text in Visual Media](https://competitions.codalab.org/competitions/20815)
-    - [Task 11 - Detection of Propaganda Techniques in News Articles](https://propaganda.qcri.org/semeval2020-task11/)
-    - [Task 12 - Identifying and Categorizing Offensive Language in Social Media (OffensEval)](https://sites.google.com/site/offensevalsharedtask/)
+- [SIGMORPHON](https://sigmorphon.github.io/sharedtasks/) hosts
+  shared tasks on morphology and phonology.
 - [CoNLL](http://www.conll.org/) hosts regular high-profile shared
   tasks.
-- [CLEF](https://clef2020.clef-initiative.eu/) also includes CL/NLP
+- [CLEF](https://clef2022.clef-initiative.eu/) also includes CL/NLP
   related tasks
-- [Germeval](https://projects.fzai.h-da.de/iggsa/) shared tasks
+- [Germeval](https://konvens2021.phil.hhu.de/shared-tasks/) shared tasks
   are another option, particularly if you'd like to work on German.
-- [VarDial workshops](https://sites.google.com/view/vardial2020) host regular
+- [VarDial workshops](https://sites.google.com/view/vardial2021/) host regular
   shared task related to dialects and closely related languages.
-- [NIPS competition track](https://nips.cc/Conferences/2019/CompetitionTrack)
+- [NeurIPS competitions](https://neurips.cc/Conferences/2021/CompetitionTrack)
     sometimes include NLP/CL related competitions.
 
-The following workshops hosted (or plan to host) shared tasks.
+Other workshops in [ACL](https://2021.aclweb.org/),
+[EMNLP](https://2021.aclweb.org/),
+[EACL](https://2021.eacl.org/program/workshops/),
+[NAACL](https://2021.naacl.org/program/workshops/),
+and [COLING](https://coling2020.org/pages/workshops)
+often include relevant shared tasks
+(The links point to earlier events,
+this year's workshop schedule is not yet known). 
 
-- [SIGMORPHON](https://sigmorphon.github.io/workshops/)
-- [Universal Dependencies Workshop](https://universaldependencies.org/udw20/)
-- [Social Media Mining for Health Applications (SMM4H) workshop](https://healthlanguageprocessing.org/smm4h/challenge/)
-- [Computational Linguistics and Clinical Psychology Workshop (CLPSYCH)](http://clpsych.org/)
-- [FinTOC-2019 Shared Task](http://wp.lancs.ac.uk/cfie/shared-task/)
-- [BioNLP workshop](https://aclweb.org/aclwiki/BioNLP_Workshop)
-- [Workshop on Noisy User-generated Text](http://noisy-text.github.io/)
-- [TextGraphs workshop](https://sites.google.com/view/textgraphs2020)
-- [Workshop on Gender Bias for Natural Language Processing](https://genderbiasnlp.talp.cat/shared-task/)
-- [Workshop on Neural Generation and Translation](https://sites.google.com/view/wngt20/home)
-- [Arabic Natural Language Processing Workshop](https://sites.google.com/view/wanlp-2020/home)
-- [Workshop on Fact Extraction and Verification](http://fever.ai/)
-- [Workshop on Multilingual Surface Realization](http://taln.upf.edu/pages/msr2019-ws/)
-- [Workshop on Rumours and Deception in Social Media](https://www.pheme.eu/rdsm2020/)
-- [Joint Workshop on Multiword Expressions and Electronic Lexicons](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_02_MWE-LEX_2020___lb__COLING__rb__&subpage=CONF_40_Shared_Task)
-- [Conference on Machine Translation](http://www.statmt.org/wmt20/)
-- [Workshop on Technologies for MT of Low Resource Languages](https://sites.google.com/view/loresmt/)
-- [Workshop on Simple and Efficient Natural Language Processing](https://sites.google.com/view/sustainlp2019)
-- [Workshop on Abusive Language Online](https://sites.google.com/view/alw4/)
-- [Second Workshop on Figurative Language Processing](https://sites.google.com/view/figlang2020/)
-- [Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
-- [Workshop on NLP4IF: censorship, disinformation, and propaganda](http://www.netcopia.net/nlp4if/)
-- [Workshop on Trolling, Aggression and Cyberbullying](https://sites.google.com/view/trac-2/home)
-- [Workshop on Natural Language Processing for Social Media](https://sites.google.com/site/socialnlp2019/)
-- [NLP Techniques for Educational Applications](http://www.nlptea.org/)
-- [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2018multimodalchallenge/)
-
-This is only a sample. Most of the shared tasks for the
-upcoming year may not yet be announced. You are recommended to check
+This is only a small sample. Most of the shared tasks for the
+upcoming year are not yet announced. You are recommended to check
 the earlier instances of the shared tasks and keep an eye
 on the workshop pages for the upcoming shared tasks announcements.
 
