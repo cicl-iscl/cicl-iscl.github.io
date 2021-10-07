@@ -108,5 +108,5 @@ published.
 
 - Instructor: [Çağrı Çöltekin](http://coltekin.net/cagri/)
     <ccoltekin**@**sfs.uni-tuebingen.de>  
-    Office hours: Monday 14:00 - 15:00
+    Office hours: Monday 16:00 - 18:00
     (Wilhelmstr. 19, room 1.09)

@@ -1,3 +1,43 @@
+- authors: Glocker and Markianos Wright (2020)
+  url: https://aclanthology.org/2020.semeval-1.222/
+  task: Emphasis selection
+  taskurl: https://competitions.codalab.org/competitions/20815
+- authors: Kaparina and Soboleva (2020)
+  url: https://aclanthology.org/2020.semeval-1.91/
+  task: Extracting term-definition pairs
+  taskurl: https://competitions.codalab.org/competitions/22759
+- authors: Karnysheva and Schwarz (2020)
+  url: https://aclanthology.org/2020.semeval-1.28/
+  task: Detecting semantic change
+  taskurl: https://competitions.codalab.org/competitions/20948
+- authors: Kannan and Santhi Ponnusamy (2020)
+  url: https://aclanthology.org/2020.semeval-1.95/
+  task: Extracting term-definition pairs
+  taskurl: https://competitions.codalab.org/competitions/22759
+- authors: Bear, Hoefels and Manolescu (2020)
+  url: https://aclanthology.org/2020.semeval-1.178/ 
+  task: Sentiment Analysis of Code-Mixed Tweets
+  taskurl: https://competitions.codalab.org/competitions/20654
+- authors: Collins, Grathwohl and Ahmed (2020)
+  url: https://aclanthology.org/2020.semeval-1.71/
+  task: Commonsense Validation and Explanation
+  taskurl: https://competitions.codalab.org/competitions/21080
+- authors: Ammer and Grüner (2020)
+  url: https://aclanthology.org/2020.semeval-1.139/
+  task: Assessing the Funniness of Edited News Headlines
+  taskurl: https://competitions.codalab.org/competitions/20970
+- authors: Dick, Weirich and Kutkina (2020)
+  url: https://aclanthology.org/2020.semeval-1.133/
+  task: Assessing the Funniness of Edited News Headlines
+  taskurl: https://competitions.codalab.org/competitions/20970
+- authors: Luo and Tang (2020)
+  url: https://aclanthology.org/2020.semeval-1.132/
+  task: Assessing the Funniness of Edited News Headlines
+  taskurl: https://competitions.codalab.org/competitions/20970
+- authors: Blaschke, Korniyenko and Tureski (2020)
+  url: https://aclanthology.org/2020.semeval-1.192/
+  task: Detection of Propaganda Techniques
+  taskurl: https://propaganda.qcri.org/semeval2020-task11/
 - authors: Bansal, Nagel and Soloveva (2019)
   url: https://aclweb.org/anthology/papers/S/S19/S19-2111/
   task: OffensEval 2019
