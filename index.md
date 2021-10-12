@@ -8,7 +8,7 @@ _Challenges in Computational Linguistics_
 at the [Department of Linguistics](http://sfs.uni-tuebingen.de),
 [University of Tübingen](http://uni-tuebingen.de).
 
-The filed of computational linguistics has a well-established
+Computational Linguistics and related fields have a well-established
 tradition of "shared tasks" or "challenges" where the participants try
 to solve a current problem in the field using a common data set and
 a well-defined metric of success. Participation in these tasks is fun
@@ -16,7 +16,7 @@ and highly educational as it requires the participants to put all
 their knowledge into practice, as well as learning and applying new
 methods to the task at hand. The comparison of the participating
 systems at the end of the shared task is also a valuable learning
-experience, both for the participating individuals and the whole
+experience, both for the participating individuals and for the whole
 field.
 
 This course takes its title literally. The students taking the course
@@ -29,10 +29,10 @@ submitting the results and writing a paper describing the system.
 
 The course requires good programming skills, a working knowledge of
 machine learning and NLP, and strong (self) motivation. This typically
-means a highly motivated Mater's or advanced Bachelor's student
+means a highly motivated master's or advanced Bachelor's student
 in computational linguistics or related departments (e.g., computer
 science, artificial intelligence, cognitive science). If  you are
-unsure, please contact the instructor.
+unsure whether this course is for you, please contact the instructor.
 
 ## Shared tasks
 
@@ -60,13 +60,17 @@ Other workshops in [ACL](https://2021.aclweb.org/),
 [NAACL](https://2021.naacl.org/program/workshops/),
 and [COLING](https://coling2020.org/pages/workshops)
 often include relevant shared tasks
-(The links point to earlier events,
-this year's workshop schedule is not yet known). 
+(this year's workshop schedule is not yet known). 
 
-This is only a small sample. Most of the shared tasks for the
+This is only a small sample. Some of the shared tasks for the
 upcoming year are not yet announced. You are recommended to check
-the earlier instances of the shared tasks and keep an eye
-on the workshop pages for the upcoming shared tasks announcements.
+the earlier instances of and keep an eye
+on the workshop pages.
+
+Another interesting event similar to the shared tasks above, 
+but has a different approach is the
+[ML Reproducibility Challenge 2021](https://paperswithcode.com/rc2021).
+You are also welcome to participate in this event.
 
 For the purposes of the class, we prefer a shared task where you
 finalize your work with a system description paper. If all else fails,
