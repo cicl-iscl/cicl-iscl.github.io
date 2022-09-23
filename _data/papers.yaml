@@ -1,3 +1,43 @@
+- authors: Lundberg, Sánchez Viñuela and Biales (2022)
+  url: https://inlgmeeting.github.io/poster_paper46.html
+  task: Dialogue summarization
+  taskurl: https://cylnlp.github.io/dialogsum-challenge/
+- authors: Merzhevich, Gbadegoye, Girrbach, Li and Soh-Eun Shim (2022)
+  url: https://aclanthology.org/2022.sigmorphon-1.20/
+  task: Morphologica inflection generation
+  taskurl: https://github.com/sigmorphon/2022InflectionST
+- authors:  Girrbach (2022)
+  url: https://aclanthology.org/2022.sigmorphon-1.13/
+  task: Morphome segmentation
+  taskurl: https://github.com/sigmorphon/2022SegmentationST
+- authors: Girrbach and Li (2022)
+  url: https://arxiv.org/abs/2201.12833
+  task: Word Segmentation and Morphological Parsing for Sanskrit
+  taskurl: https://competitions.codalab.org/competitions/35744
+- authors: Gu, Meisinger and Dick (2022)
+  url: https://aclanthology.org/2022.semeval-1.102/
+  task: Misogyny Detection
+  taskurl: https://competitions.codalab.org/competitions/34175
+- authors: Jobanputra ana Rodríguez (2022)
+  url: https://aclanthology.org/2022.semeval-1.165/
+  task: Multilingual news article similarity
+  taskurl: http://euagendas.org/semeval2022
+- authors: Hantsch and Chkroun (2022)
+  url: https://aclanthology.org/2022.semeval-1.132/
+  task: Intended Sarcasm Detection
+  taskurl: https://sites.google.com/view/semeval2022-isarcasmeval
+- authors: Hantsch and Chkroun (2022)
+  url: https://aclanthology.org/2022.semeval-1.132/
+  task: Intended Sarcasm Detection
+  taskurl: https://sites.google.com/view/semeval2022-isarcasmeval
+- authors: Vetter, Segiet and Lennermann (2022)
+  url: https://aclanthology.org/2022.semeval-1.36/
+  task: Presupposed Taxonomies
+  taskurl: https://sites.google.com/view/semeval2022-pretens/
+- authors: Brivio and Çöltekin (2022)
+  url: https://zenodo.org/record/6574639
+  task: ML reproducibility challenge
+  taskurl: https://paperswithcode.com/rc2021
 - authors: Glocker and Markianos Wright (2020)
   url: https://aclanthology.org/2020.semeval-1.222/
   task: Emphasis selection

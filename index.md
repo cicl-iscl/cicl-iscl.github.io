@@ -39,7 +39,7 @@ unsure whether this course is for you, please contact the instructor.
 In principle, any shared task related to computational linguistics is
 acceptable. Here are a few pointers (some point to earlier events):
 
-- [SemEval](http://alt.qcri.org/semeval2020/index.php?id=tasks)
+- [SemEval](https://semeval.github.io/SemEval2023/)
   competitions include a wide range of shared tasks.
 - [SIGMORPHON](https://sigmorphon.github.io/sharedtasks/) hosts
   shared tasks on morphology and phonology.
@@ -69,7 +69,7 @@ on the workshop pages.
 
 Another interesting event similar to the shared tasks above, 
 but has a different approach is the
-[ML Reproducibility Challenge 2021](https://paperswithcode.com/rc2021).
+[ML Reproducibility Challenge 2022](https://paperswithcode.com/rc2022).
 You are also welcome to participate in this event.
 
 For the purposes of the class, we prefer a shared task where you
