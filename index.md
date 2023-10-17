@@ -69,8 +69,11 @@ on the workshop pages.
 
 Another interesting event similar to the shared tasks above, 
 but has a different approach is the
-[ML Reproducibility Challenge 2022](https://paperswithcode.com/rc2022).
-You are also welcome to participate in this event.
+ML Reproducibility Challenge 
+You are also welcome to participate in this event 
+(The challenge is not announced this year, you can check the
+[last year's challenge website](https://paperswithcode.com/rc2022)
+to get the general idea).
 
 For the purposes of the class, we prefer a shared task where you
 finalize your work with a system description paper. If all else fails,
