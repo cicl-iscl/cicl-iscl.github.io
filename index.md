@@ -69,11 +69,11 @@ on the workshop pages.
 
 Another interesting event similar to the shared tasks above, 
 but has a different approach is the
-ML Reproducibility Challenge 
+[ML Reproducibility Challenge](https://reproml.org/).
 You are also welcome to participate in this event 
-(The challenge is not announced this year, you can check the
-[last year's challenge website](https://paperswithcode.com/rc2022)
-to get the general idea).
+(You may also want to look at
+the [last year's challenge website](https://paperswithcode.com/rc2022)
+to see example reports).
 
 For the purposes of the class, we prefer a shared task where you
 finalize your work with a system description paper. If all else fails,
@@ -116,4 +116,4 @@ published.
 - Instructor: [Çağrı Çöltekin](http://coltekin.net/cagri/)
     <ccoltekin**@**sfs.uni-tuebingen.de>  
     Office hours: Wednesday 16:00 - 17:00
-    (Wilhelmstr. 19, room 1.09)
+    (Keplerstr. 2, room 152)
