@@ -39,13 +39,13 @@ unsure whether this course is for you, please contact the instructor.
 In principle, any shared task related to computational linguistics is
 acceptable. Here are a few pointers (some point to earlier events):
 
-- [SemEval](https://semeval.github.io/SemEval2024/)
+- [SemEval](https://semeval.github.io/SemEval2025/)
   competitions include a wide range of shared tasks.
 - [SIGMORPHON](https://sigmorphon.github.io/sharedtasks/) hosts
   shared tasks on morphology and phonology.
 - [CoNLL](http://www.conll.org/) hosts regular high-profile shared
   tasks.
-- [CLEF](https://clef2024.clef-initiative.eu/) also includes CL/NLP
+- [CLEF](https://clef2025.clef-initiative.eu/) also includes CL/NLP
   related tasks
 - [Germeval](https://konvens2021.phil.hhu.de/shared-tasks/) shared tasks
   are another option, particularly if you'd like to work on German.

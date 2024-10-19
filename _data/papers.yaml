@@ -1,3 +1,27 @@
+- authors:  Stuhlinger & Winkler
+  url: https://aclanthology.org/2024.semeval-1.227/
+  task: Multidomain, Multimodel and Multilingual Machine-Generated Text Detection 
+  taskurl: https://github.com/mbzuai-nlp/Semeval2024-m4/
+- authors: Pickard & Do (2024)
+  url: https://aclanthology.org/2024.semeval-1.118/
+  task: Multidomain, Multimodel and Multilingual Machine-Generated Text Detection 
+  taskurl: https://github.com/mbzuai-nlp/Semeval2024-m4/
+- authors: Cao, Kilic & Will
+  url: https://aclanthology.org/2024.semeval-1.62/
+  task: Multidomain, Multimodel and Multilingual Machine-Generated Text Detection 
+  taskurl: https://github.com/mbzuai-nlp/Semeval2024-m4/
+- authors: Smilga & Alabiad (2024)
+  url: https://aclanthology.org/2024.semeval-1.106/
+  task: Safe Biomedical Natural Language Inference for Clinical Trials
+  taskurl: https://sites.google.com/view/nli4ct/
+- authors: Zhunis & Chuang (2024)
+  url: https://aclanthology.org/2024.semeval-1.236/
+  task: Numeral-Aware Language Understanding and Generation
+  taskurl: https://sites.google.com/view/numeval/numeval
+- authors: Rösener, Wei & Vandici (2024)
+  url: https://aclanthology.org/2024.semeval-1.237/
+  task: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes
+  taskurl: https://helsinki-nlp.github.io/shroom/
 - authors: Grötzinger, Heuschkel and Drews (2023)
   url: https://aclanthology.org/2023.semeval-1.141
   task: Learning With Disagreements
