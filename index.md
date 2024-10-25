@@ -42,23 +42,23 @@ acceptable. Here are a few pointers (some point to earlier events):
 - [SemEval](https://semeval.github.io/SemEval2025/)
   competitions include a wide range of shared tasks.
 - [SIGMORPHON](https://sigmorphon.github.io/sharedtasks/) hosts
-  shared tasks on morphology and phonology.
+  shared tasks on morphology and phonology (likely no shared tasks in 2025)
 - [CoNLL](http://www.conll.org/) hosts regular high-profile shared
   tasks.
 - [CLEF](https://clef2025.clef-initiative.eu/) also includes CL/NLP
   related tasks
 - [Germeval](https://konvens2021.phil.hhu.de/shared-tasks/) shared tasks
   are another option, particularly if you'd like to work on German.
-- [VarDial workshops](https://sites.google.com/view/vardial2021/) host regular
+- [VarDial workshops](https://sites.google.com/view/vardial2025/) host regular
   shared task related to dialects and closely related languages.
-- [NeurIPS competitions](https://neurips.cc/Conferences/2021/CompetitionTrack)
+- [NeurIPS competitions](https://neurips.cc/Conferences/2024/CompetitionTrack)
     sometimes include NLP/CL related competitions.
 
 Other workshops in [ACL](https://2021.aclweb.org/),
-[EMNLP](https://2021.aclweb.org/),
-[EACL](https://2021.eacl.org/program/workshops/),
-[NAACL](https://2021.naacl.org/program/workshops/),
-and [COLING](https://coling2020.org/pages/workshops)
+[EMNLP](https://2025.aclweb.org/),
+[EACL](https://2024.eacl.org/program/workshops/),
+[NAACL](https://2025.naacl.org/program/workshops/),
+and [COLING](https://coling2025.org/pages/workshops)
 often include relevant shared tasks
 (this year's workshop schedule is not yet known). 
 
