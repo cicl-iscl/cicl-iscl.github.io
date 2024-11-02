@@ -49,7 +49,7 @@ acceptable. Here are a few pointers (some point to earlier events):
   related tasks
 - [Germeval](https://konvens2021.phil.hhu.de/shared-tasks/) shared tasks
   are another option, particularly if you'd like to work on German.
-- [VarDial workshops](https://sites.google.com/view/vardial2025/) host regular
+- [VarDial workshops](https://sites.google.com/view/vardial-2025/) host regular
   shared task related to dialects and closely related languages.
 - [NeurIPS competitions](https://neurips.cc/Conferences/2024/CompetitionTrack)
     sometimes include NLP/CL related competitions.
